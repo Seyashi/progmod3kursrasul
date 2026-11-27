@@ -1,0 +1,44 @@
+namespace SoloLearn
+{
+    class Program
+    { 
+  class Device
+{
+    protected string Brand { get; set; }
+    protected string Model { get; set; }
+}
+class Phone:Device
+{
+    public Phone (string brand,string model)
+    {
+        Brand = brand;
+        Model = model;
+    }
+public void Call()
+    {
+        Console.WriteLine("Звонок с телефона" + Brand + " " + Model);
+    }
+}
+
+static void Main(string[]args)
+{
+    Phone phone = new Phone("Samsung", "Galaxy A54");
+}
+}
+}
+.....................................................................
+
+1)namespace SoloLearn — объявление пространства имён SoloLearn
+3)class Program — объявление класса Program
+5)class Device — объявление вложенного класса Device
+7)protected string Brand { get; set; } — Добавление атрибутов класса
+8)protected string Model { get; set; } — Добавление атрибутов класса
+10)class Phone:Device — объявление класса Phone, наследующего Device
+12)public Phone (string brand,string model) — конструктор класса Phone с двумя параметрами
+14)Brand = brand; — присваивание значения унаследованному свойству Brand
+15)Model = model; — присваивание значения унаследованному свойству Model
+17)public void Call() — объявление публичного метода Call, возвращает void
+19)Console.WriteLine("Звонок с телефона" + Brand + " " + Model); — вывод строки в консоль
+22)static void Main(string[]args) — объявление статического метода Main, точка входа
+24)Phone phone = new Phone("Samsung", "Galaxy A54"); — объявление переменной phone и создание объекта Phone
+

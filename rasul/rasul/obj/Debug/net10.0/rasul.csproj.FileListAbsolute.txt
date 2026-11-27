@@ -1,0 +1,15 @@
+D:\Гусейнов.Р.Р\rasul\rasul\obj\Debug\net10.0\rasul.GeneratedMSBuildEditorConfig.editorconfig
+D:\Гусейнов.Р.Р\rasul\rasul\obj\Debug\net10.0\rasul.AssemblyInfoInputs.cache
+D:\Гусейнов.Р.Р\rasul\rasul\obj\Debug\net10.0\rasul.AssemblyInfo.cs
+D:\Гусейнов.Р.Р\rasul\rasul\obj\Debug\net10.0\rasul.csproj.CoreCompileInputs.cache
+D:\Гусейнов.Р.Р\rasul\rasul\bin\Debug\net10.0\rasul.exe
+D:\Гусейнов.Р.Р\rasul\rasul\bin\Debug\net10.0\rasul.deps.json
+D:\Гусейнов.Р.Р\rasul\rasul\bin\Debug\net10.0\rasul.runtimeconfig.json
+D:\Гусейнов.Р.Р\rasul\rasul\bin\Debug\net10.0\rasul.dll
+D:\Гусейнов.Р.Р\rasul\rasul\bin\Debug\net10.0\rasul.pdb
+D:\Гусейнов.Р.Р\rasul\rasul\obj\Debug\net10.0\rasul.dll
+D:\Гусейнов.Р.Р\rasul\rasul\obj\Debug\net10.0\refint\rasul.dll
+D:\Гусейнов.Р.Р\rasul\rasul\obj\Debug\net10.0\rasul.pdb
+D:\Гусейнов.Р.Р\rasul\rasul\obj\Debug\net10.0\rasul.genruntimeconfig.cache
+D:\Гусейнов.Р.Р\rasul\rasul\obj\Debug\net10.0\ref\rasul.dll
+D:\Гусейнов.Р.Р\rasul\rasul\obj\Debug\net10.0\rasul.csproj.Up2Date

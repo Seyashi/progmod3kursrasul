@@ -1,0 +1,7 @@
+D:\Гусейнов.Р.Р\mag\mag\bin\Debug\mag.exe.config
+D:\Гусейнов.Р.Р\mag\mag\bin\Debug\mag.exe
+D:\Гусейнов.Р.Р\mag\mag\bin\Debug\mag.pdb
+D:\Гусейнов.Р.Р\mag\mag\obj\Debug\mag.csproj.AssemblyReference.cache
+D:\Гусейнов.Р.Р\mag\mag\obj\Debug\mag.csproj.CoreCompileInputs.cache
+D:\Гусейнов.Р.Р\mag\mag\obj\Debug\mag.exe
+D:\Гусейнов.Р.Р\mag\mag\obj\Debug\mag.pdb

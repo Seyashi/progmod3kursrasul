@@ -1,0 +1,11 @@
+D:\Гусейнов.Р.Р\rasuuulform\rasuuulform\bin\Debug\rasuuulform.exe.config
+D:\Гусейнов.Р.Р\rasuuulform\rasuuulform\bin\Debug\rasuuulform.exe
+D:\Гусейнов.Р.Р\rasuuulform\rasuuulform\bin\Debug\rasuuulform.pdb
+D:\Гусейнов.Р.Р\rasuuulform\rasuuulform\obj\Debug\rasuuulform.csproj.AssemblyReference.cache
+D:\Гусейнов.Р.Р\rasuuulform\rasuuulform\obj\Debug\rasuuulform.Form1.resources
+D:\Гусейнов.Р.Р\rasuuulform\rasuuulform\obj\Debug\rasuuulform.Properties.Resources.resources
+D:\Гусейнов.Р.Р\rasuuulform\rasuuulform\obj\Debug\rasuuulform.csproj.GenerateResource.cache
+D:\Гусейнов.Р.Р\rasuuulform\rasuuulform\obj\Debug\rasuuulform.csproj.CoreCompileInputs.cache
+D:\Гусейнов.Р.Р\rasuuulform\rasuuulform\obj\Debug\rasuuulform.exe
+D:\Гусейнов.Р.Р\rasuuulform\rasuuulform\obj\Debug\rasuuulform.pdb
+D:\Гусейнов.Р.Р\rasuuulform\rasuuulform\obj\Debug\rasuuulform.Form2.resources

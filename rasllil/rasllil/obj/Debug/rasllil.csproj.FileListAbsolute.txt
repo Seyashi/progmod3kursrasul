@@ -1,0 +1,13 @@
+D:\Гусейнов.Р.Р\rasllil\rasllil\bin\Debug\rasllil.exe.config
+D:\Гусейнов.Р.Р\rasllil\rasllil\bin\Debug\rasllil.exe
+D:\Гусейнов.Р.Р\rasllil\rasllil\bin\Debug\rasllil.pdb
+D:\Гусейнов.Р.Р\rasllil\rasllil\obj\Debug\rasllil.csproj.AssemblyReference.cache
+D:\Гусейнов.Р.Р\rasllil\rasllil\obj\Debug\rasllil.Properties.Resources.resources
+D:\Гусейнов.Р.Р\rasllil\rasllil\obj\Debug\rasllil.csproj.GenerateResource.cache
+D:\Гусейнов.Р.Р\rasllil\rasllil\obj\Debug\rasllil.csproj.CoreCompileInputs.cache
+D:\Гусейнов.Р.Р\rasllil\rasllil\obj\Debug\rasllil.exe
+D:\Гусейнов.Р.Р\rasllil\rasllil\obj\Debug\rasllil.pdb
+D:\Гусейнов.Р.Р\rasllil\rasllil\obj\Debug\rasllil.Rasul.resources
+D:\Гусейнов.Р.Р\rasllil\rasllil\obj\Debug\rasllil.Form1.resources
+D:\Гусейнов.Р.Р\rasllil\rasllil\obj\Debug\rasllil.Form2.resources
+D:\Гусейнов.Р.Р\rasllil\rasllil\obj\Debug\rasllil.Form3.resources

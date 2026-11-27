@@ -1,0 +1,15 @@
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\obj\Debug\net10.0\Деструктор.GeneratedMSBuildEditorConfig.editorconfig
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\obj\Debug\net10.0\Деструктор.AssemblyInfoInputs.cache
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\obj\Debug\net10.0\Деструктор.AssemblyInfo.cs
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\obj\Debug\net10.0\Деструктор.csproj.CoreCompileInputs.cache
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\bin\Debug\net10.0\Деструктор.exe
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\bin\Debug\net10.0\Деструктор.deps.json
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\bin\Debug\net10.0\Деструктор.runtimeconfig.json
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\bin\Debug\net10.0\Деструктор.dll
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\bin\Debug\net10.0\Деструктор.pdb
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\obj\Debug\net10.0\Деструктор.dll
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\obj\Debug\net10.0\refint\Деструктор.dll
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\obj\Debug\net10.0\Деструктор.pdb
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\obj\Debug\net10.0\Деструктор.genruntimeconfig.cache
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\obj\Debug\net10.0\ref\Деструктор.dll
+D:\Гусейнов.Р.Р\Деструктор\Деструктор\obj\Debug\net10.0\Деструктор.csproj.Up2Date

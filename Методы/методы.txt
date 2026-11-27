@@ -1,0 +1,41 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Cryptography.X509Certificates;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace artur_femboy
+{
+    class Sport
+    {
+        public string Name { get; set; }
+        public string Wid { get; set; }
+        public string Tip { get; set; }
+
+        public Sport (string name, string wid, string tip)
+        {
+            this.name = name;
+            this.wid = wid; 
+            this.tip = tip;
+
+        }
+    
+        static void Main(string[] args)
+        {
+            Sport CyberSportsmen = new Sport("Контрестрайк2", "Рифл", "доминация");
+            Console.WriteLine(CyberSportsmen.name + " " + CyberSportsmen.wid + " " + CyberSportsmen.tip);
+            Console.ReadLine();
+        }
+    }
+}
+
+
+
+
+
+public void ShowDirector()
+{
+Console.WriteLine(director);
+console.ReadLine();
+}

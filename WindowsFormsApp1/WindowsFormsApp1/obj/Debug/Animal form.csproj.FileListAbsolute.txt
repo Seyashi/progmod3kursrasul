@@ -1,0 +1,10 @@
+D:\Гусейнов.Р.Р\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Animal form.csproj.AssemblyReference.cache
+D:\Гусейнов.Р.Р\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Гусейнов.Р.Р\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Гусейнов.Р.Р\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Animal form.csproj.GenerateResource.cache
+D:\Гусейнов.Р.Р\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Animal form.csproj.CoreCompileInputs.cache
+D:\Гусейнов.Р.Р\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Гусейнов.Р.Р\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Гусейнов.Р.Р\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Гусейнов.Р.Р\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Гусейнов.Р.Р\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

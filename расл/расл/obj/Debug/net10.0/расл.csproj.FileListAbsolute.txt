@@ -1,0 +1,15 @@
+D:\Гусейнов.Р.Р\расл\расл\obj\Debug\net10.0\расл.GeneratedMSBuildEditorConfig.editorconfig
+D:\Гусейнов.Р.Р\расл\расл\obj\Debug\net10.0\расл.AssemblyInfoInputs.cache
+D:\Гусейнов.Р.Р\расл\расл\obj\Debug\net10.0\расл.AssemblyInfo.cs
+D:\Гусейнов.Р.Р\расл\расл\obj\Debug\net10.0\расл.csproj.CoreCompileInputs.cache
+D:\Гусейнов.Р.Р\расл\расл\bin\Debug\net10.0\расл.exe
+D:\Гусейнов.Р.Р\расл\расл\bin\Debug\net10.0\расл.deps.json
+D:\Гусейнов.Р.Р\расл\расл\bin\Debug\net10.0\расл.runtimeconfig.json
+D:\Гусейнов.Р.Р\расл\расл\bin\Debug\net10.0\расл.dll
+D:\Гусейнов.Р.Р\расл\расл\bin\Debug\net10.0\расл.pdb
+D:\Гусейнов.Р.Р\расл\расл\obj\Debug\net10.0\расл.dll
+D:\Гусейнов.Р.Р\расл\расл\obj\Debug\net10.0\refint\расл.dll
+D:\Гусейнов.Р.Р\расл\расл\obj\Debug\net10.0\расл.pdb
+D:\Гусейнов.Р.Р\расл\расл\obj\Debug\net10.0\расл.genruntimeconfig.cache
+D:\Гусейнов.Р.Р\расл\расл\obj\Debug\net10.0\ref\расл.dll
+D:\Гусейнов.Р.Р\расл\расл\obj\Debug\net10.0\расл.csproj.Up2Date

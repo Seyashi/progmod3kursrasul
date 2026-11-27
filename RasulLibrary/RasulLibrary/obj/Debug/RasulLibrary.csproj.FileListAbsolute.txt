@@ -1,0 +1,6 @@
+D:\Гусейнов.Р.Р\RasulLibrary\RasulLibrary\obj\Debug\RasulLibrary.csproj.AssemblyReference.cache
+D:\Гусейнов.Р.Р\RasulLibrary\RasulLibrary\obj\Debug\RasulLibrary.csproj.CoreCompileInputs.cache
+D:\Гусейнов.Р.Р\RasulLibrary\RasulLibrary\bin\Debug\RasulLibrary.dll
+D:\Гусейнов.Р.Р\RasulLibrary\RasulLibrary\bin\Debug\RasulLibrary.pdb
+D:\Гусейнов.Р.Р\RasulLibrary\RasulLibrary\obj\Debug\RasulLibrary.dll
+D:\Гусейнов.Р.Р\RasulLibrary\RasulLibrary\obj\Debug\RasulLibrary.pdb

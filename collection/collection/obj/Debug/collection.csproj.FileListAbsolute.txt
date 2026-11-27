@@ -1,0 +1,10 @@
+D:\Гусейнов.Р.Р\collection\collection\obj\Debug\collection.csproj.AssemblyReference.cache
+D:\Гусейнов.Р.Р\collection\collection\obj\Debug\collection.Form1.resources
+D:\Гусейнов.Р.Р\collection\collection\obj\Debug\collection.Properties.Resources.resources
+D:\Гусейнов.Р.Р\collection\collection\obj\Debug\collection.csproj.GenerateResource.cache
+D:\Гусейнов.Р.Р\collection\collection\obj\Debug\collection.csproj.CoreCompileInputs.cache
+D:\Гусейнов.Р.Р\collection\collection\bin\Debug\collection.exe.config
+D:\Гусейнов.Р.Р\collection\collection\bin\Debug\collection.exe
+D:\Гусейнов.Р.Р\collection\collection\bin\Debug\collection.pdb
+D:\Гусейнов.Р.Р\collection\collection\obj\Debug\collection.exe
+D:\Гусейнов.Р.Р\collection\collection\obj\Debug\collection.pdb

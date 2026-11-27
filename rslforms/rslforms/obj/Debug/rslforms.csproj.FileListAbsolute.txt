@@ -1,0 +1,10 @@
+D:\Гусейнов.Р.Р\rslforms\rslforms\bin\Debug\rslforms.exe.config
+D:\Гусейнов.Р.Р\rslforms\rslforms\bin\Debug\rslforms.exe
+D:\Гусейнов.Р.Р\rslforms\rslforms\bin\Debug\rslforms.pdb
+D:\Гусейнов.Р.Р\rslforms\rslforms\obj\Debug\rslforms.csproj.AssemblyReference.cache
+D:\Гусейнов.Р.Р\rslforms\rslforms\obj\Debug\rslforms.Form1.resources
+D:\Гусейнов.Р.Р\rslforms\rslforms\obj\Debug\rslforms.Properties.Resources.resources
+D:\Гусейнов.Р.Р\rslforms\rslforms\obj\Debug\rslforms.csproj.GenerateResource.cache
+D:\Гусейнов.Р.Р\rslforms\rslforms\obj\Debug\rslforms.csproj.CoreCompileInputs.cache
+D:\Гусейнов.Р.Р\rslforms\rslforms\obj\Debug\rslforms.exe
+D:\Гусейнов.Р.Р\rslforms\rslforms\obj\Debug\rslforms.pdb

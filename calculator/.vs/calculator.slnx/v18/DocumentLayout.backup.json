@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0413\u0443\u0441\u0435\u0439\u043D\u043E\u0432.\u0420.\u0420\\calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90A73917-50CE-4E85-8A24-E5991F48BAA8}|calculator\\calculator.csproj|d:\\\u0433\u0443\u0441\u0435\u0439\u043D\u043E\u0432.\u0440.\u0440\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A73917-50CE-4E85-8A24-E5991F48BAA8}|calculator\\calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A73917-50CE-4E85-8A24-E5991F48BAA8}|calculator\\calculator.csproj|d:\\\u0433\u0443\u0441\u0435\u0439\u043D\u043E\u0432.\u0440.\u0440\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90A73917-50CE-4E85-8A24-E5991F48BAA8}|calculator\\calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0413\u0443\u0441\u0435\u0439\u043D\u043E\u0432.\u0420.\u0420\\calculator\\calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "calculator\\Form1.cs",
+              "ToolTip": "D:\\\u0413\u0443\u0441\u0435\u0439\u043D\u043E\u0432.\u0420.\u0420\\calculator\\calculator\\Form1.cs",
+              "RelativeToolTip": "calculator\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAewEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T06:33:30.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0413\u0443\u0441\u0435\u0439\u043D\u043E\u0432.\u0420.\u0420\\calculator\\calculator\\Form1.cs",
+              "RelativeDocumentMoniker": "calculator\\Form1.cs",
+              "ToolTip": "D:\\\u0413\u0443\u0441\u0435\u0439\u043D\u043E\u0432.\u0420.\u0420\\calculator\\calculator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "calculator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T06:20:57.883Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
